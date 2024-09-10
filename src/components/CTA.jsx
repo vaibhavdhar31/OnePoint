@@ -18,7 +18,7 @@ const CTA = () => {
         <div className="flex flex-wrap items-center gap-5 mt-4">
           <div className="w-[40px] h-[40px] sm:w-[60px] sm:h-[60px] rounded-full flex justify-center items-center bg-dimBlue">
             <a
-              href="https://api.whatsapp.com/send/?phone=%2B916388453213&text=Hello+Vaibhav"
+              href="https://api.whatsapp.com/send/?phone=%2B919315569233&text=Hello+Anoop"
               target="_blank"
               rel="noreferrer"
             >
@@ -28,7 +28,7 @@ const CTA = () => {
 
           <div className="w-[40px] h-[40px] sm:w-[60px] sm:h-[60px] rounded-full flex justify-center items-center bg-dimBlue">
             <a
-              href="mailto:pramodtejrapiku01@gmail.com"
+              href="mailto:onepointms1@gmail.com"
               target="_blank"
               rel="noreferrer"
             >
