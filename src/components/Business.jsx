@@ -27,12 +27,9 @@ const Business = () => {
   return (
     <section id='features' className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>You do the business, <br className='sm:block hidden'/>we'll handle the excellence.</h2>
+        <h2 className={styles.heading2}> At One Point Management <br></br>Solutions,<br className='sm:block hidden'/>we specialize in <br></br>consulting, auditing, <br></br>and training.</h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right partner,
-        you can elevate your organization's performance by achieving ISO excellence,
-        streamlining processes, and ensuring compliance. However, with numerous ISO 
-        consultancy firms in the market, selecting the right one can be a challenge.
+        
         </p>
         <Button styles='mt-10'/>
       </div>

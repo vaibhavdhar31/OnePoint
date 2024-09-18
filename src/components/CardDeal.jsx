@@ -7,7 +7,7 @@ const CardDeal = () => {
   return (
     <section className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>Boost your prosperity<br className='sm:block hidden'/>with us.</h2>
+        <h2 className={styles.heading2}>About Us<br className='sm:block hidden'/> </h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           * Started Consultancy in 2007(>17 Year Old)
           <br></br>
@@ -15,9 +15,11 @@ const CardDeal = () => {
           <br></br>
           * Trained more than 1000 persons.
           <br></br>
-          * Consulting on more than 30 standards
+          * Consulting on more than 30 standards.
           <br></br>
-          * Competent team having diversified background
+          * Competent team having diversified background.
+          <br></br>
+          * Explored fields of Railways, Automotive, Medical, Chemical and many more. 
         </p>
         <Button styles='mt-10'/>
       </div>

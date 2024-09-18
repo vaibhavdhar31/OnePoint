@@ -8,15 +8,15 @@ const Hero = () => {
       <div className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6`}>
         <div className='flex flex-row justify-between items-center w-full'>
           <h1 className='flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]'>
-          CONSULT WITH <br className='sm:block hidden'/> {" "}
-            <span className='text-gradient'>LEADERS</span> {" "}
+          {/* CONSULT WITH <br className='sm:block hidden'/> {" "} */}
+            <span className='text-gradient'>YOUR PARTNER</span> {" "}
           </h1>
           <div className='ss:flex hidden md:mr-4 mr-0'>
             <GetStarted/>
           </div>
         </div>
         <h1 className='font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full'>
-         OF FUTURE
+         IN PROGRESS
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Our team of experts uses a methodology of consulting, auditing and to boost yours business legacy.  

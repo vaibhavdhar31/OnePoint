@@ -30,11 +30,11 @@ export const navLinks = [
   },
   {
     id: "features",
-    title: "Features",
+    title: "Services",
   },
   {
     id: "product",
-    title: "Product",
+    title: "About Us",
   },
   {
     id: "clients",
@@ -62,7 +62,7 @@ export const features = [
     icon: train,
     title: "Training",
     content:
-      "Will provide a proper layout of the system working throughout your sight for excelllence of business.",
+      "Customized training programs for compliance and operational efficiency.",
   },
 ];
 
